@@ -1,0 +1,89 @@
+body{
+	font-family: "Century Gothic";
+	text-align: justify-all;
+}
+
+p{
+	text-align: justify;
+}
+
+nav{
+	margin-top: 40px;
+
+}
+
+ul{
+	font-size: 25px;
+	list-style: none;
+}
+
+a{
+
+	text-decoration: none;
+	color: #4c946f;
+	font-weight: bolder;
+}
+
+
+
+.navigation{
+	color: #000;
+	background-color: #FFF;
+	border-style: solid;
+
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.navigation:hover{
+	color: #000;
+	background-color: #000;
+	border-style: solid;
+	border-color: #4c946f;
+    border-radius: 5px;
+}
+
+h1{
+	color: #4c946f;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
+
+
+
+#left{
+	float: left;
+	margin-left: 50px;
+
+}
+
+#dragon{
+	margin-top: 50px;
+	width: 80%;
+	height: auto;
+    display: block;
+    margin-left: 60px;
+    margin-right: auto;
+
+}
+
+#container{
+	width: 65%;
+	float: right;
+	margin-right: 50px;
+	margin-top: -10px;
+}
+
+#toTheLeft{
+	float: left;
+	width: 60%;
+}
+
+#toTheRight{
+	float: right;
+	width: 40%;
+	height: auto;
+	margin-top: -50px;
+}
